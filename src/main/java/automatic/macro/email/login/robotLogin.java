@@ -6,7 +6,7 @@ public class RobotDemo {
 	public static void main(String[] args) {
 		
 		Runtime rt = Runtime.getRuntime();
-		String exeFile =  "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe"; // 실행할 파일 위치
+		String exeFile =  ""; // 실행할 파일 위치
 		Process p;
 		
 		int URLaddress[] = {
