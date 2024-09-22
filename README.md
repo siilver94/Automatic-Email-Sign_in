@@ -1,12 +1,14 @@
 # Project : 이메일 자동 로그인(Automatic E-mail Sign in)
 
+![image](https://github.com/user-attachments/assets/27634e99-c672-473a-90db-c90ba54d57aa)
+
 <br/>
 
 ## 프로젝트 소개
 
 이번 프로젝트에서는 프로그램을 실행하면 Chrome 브라우저가 자동으로 실행되고, '다음' 웹사이트에 접속하여 자동 로그인을 한 후 받은 메일함을 확인할 수 있는 자동화 시스템을 구축합니다. 이 프로젝트는 원시적인 방법(Robot)과 Selenium 프레임워크를 활용한 두 가지 접근 방식을 다룹니다.
 
-![image](https://github.com/user-attachments/assets/27634e99-c672-473a-90db-c90ba54d57aa)
+
 
 
 <br/>
